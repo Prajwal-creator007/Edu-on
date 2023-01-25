@@ -1,0 +1,158 @@
+ .u-section-1 {
+  background-image: url("images/stationery-background-school-tools-seamless-pattern-art-education-wallpaper-line-icons-pencil-pen-paintbrush-stationery-169250929.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 949px;
+}
+
+.u-section-1 .u-video-1 {
+  width: 570px;
+  height: 321px;
+  margin: 60px auto 0 55px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
+.u-section-1 .u-group-1 {
+  width: 343px;
+  min-height: 321px;
+  height: auto;
+  background-image: linear-gradient(white, #adf6f2);
+  margin: -321px 67px 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 30px 8px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 139px;
+  width: 283px;
+  margin: -13px 0 0;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-group-2 {
+  width: 343px;
+  min-height: 429px;
+  height: auto;
+  background-image: linear-gradient(white, #adf6f2);
+  margin: 139px auto 0 140px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 30px 8px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.u-section-1 .u-form-2 {
+  height: 139px;
+  width: 283px;
+  margin: -13px 0 0;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-video-2 {
+  width: 485px;
+  height: 330px;
+  margin: -394px 33px 60px auto;
+}
+
+.u-section-1 .embed-responsive-2 {
+  position: absolute;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 783px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-group-2 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 600px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 433px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 540px;
+    height: 304px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: -304px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 221px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 340px;
+    height: 191px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    margin-top: -191px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 340px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-video-2 {
+    width: 340px;
+    height: 231px;
+    margin-right: 0;
+  }
+}
